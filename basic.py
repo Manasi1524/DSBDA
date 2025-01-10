@@ -42,5 +42,13 @@ c = a+b
 print("a",a,type(a))
 print("c",c,type(c))
 
+# addition
+a =5
+b =5
+c = a+b
+print(c)
+
+
+
 
 
